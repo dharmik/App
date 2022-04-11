@@ -1,0 +1,9 @@
+[commit]
+    gpgsign = true
+[user]
+    email = dharmikisback@gmail.com
+    name = Dharmik Patel
+    username = dharmik
+    signingkey = 40269A9775E3561D
+[gpg]
+    program = gpg
